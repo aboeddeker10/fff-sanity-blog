@@ -18,5 +18,8 @@
   "devDependencies": {
     "sass": "^1.42.1",
     "sass-loader": "^10.1.1"
+  },
+  "optionalDependencies": {
+    "fsevents": "2.1.2"
   }
 }
