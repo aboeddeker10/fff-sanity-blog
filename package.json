@@ -24,5 +24,11 @@
   },
   "dependencies": {
     "@sanity/client": "^2.21.7"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  },
+  "optionalDependencies": {
+    "fsevents": "2.1.2"
   }
 }
